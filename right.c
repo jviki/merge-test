@@ -1,5 +1,5 @@
 /**
- * base.c
+ * right.c
  * Copyright (C) 2014 Jan Viktorin
  */
 

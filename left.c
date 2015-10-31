@@ -1,5 +1,5 @@
 /**
- * base.c
+ * left.c
  * Copyright (C) 2014 Jan Viktorin
  */
 
