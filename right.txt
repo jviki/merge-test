@@ -1,4 +1,4 @@
-a true story
+A true story
 
 this is a true story about the 3-way merge. It is nice to have a simple
 script that can show, how the 3-way merge behaves.
