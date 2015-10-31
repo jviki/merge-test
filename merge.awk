@@ -76,6 +76,8 @@ function naive_merge3(i)
 		print right[i]
 	else if (base[i] == right[i] && left[i] != right[i])
 		print left[i]
+	else if (left[i] == right[i] && base[i] != left[i])
+		print left[i]
 	else {
 		left_conflict("")
 		print left[i]
