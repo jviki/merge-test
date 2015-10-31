@@ -2,7 +2,8 @@ A true story
 
 This is a true story about the 3-way merge. It is nice to have a simple
 script that can show, how the 3-way merge behaves.
-It is not that difficult to get the basic idea. However, a more complex example may lead to
+It is not that difficult to get the basic idea. However, a more complex
+example may lead to
 a quite complex code. The basic issue is to compute the diffs well.
 
 End of the story.
